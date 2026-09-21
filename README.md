@@ -1,2 +1,2 @@
-# Vacusteel
-Official website for VacuSteel — next-generation vacuum-insulated structural steel panels.
+# VACUSTEEL
+Official website for VACUSTEEL™ — next-generation vacuum-insulated structural steel panels.
